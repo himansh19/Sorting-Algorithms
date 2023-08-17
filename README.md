@@ -6,6 +6,9 @@ In this repository
    
 3. Code of Analysis is also mentioned in individual sort code file at the end for which the result is also plotted and screenshot of result is also attached below
 
+i.e In code files Code is present in order 
+
+**Code for sorting -> Code for Analysis -> Code for Plotting Graph**
 
 For performing all of this, below python libraries you need to import before running code as they will be used 
 import timeit
